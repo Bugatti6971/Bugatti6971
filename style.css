@@ -1,0 +1,48 @@
+.banner-card img {
+    position: relative;
+    max-width: 100%;
+    height: auto; 
+    display: block;
+}
+
+.banner-text h1 {
+    position: absolute;
+    top: 1%;
+    left: 10%;
+    color: black;
+    text-decoration: underline;
+}
+
+.banner-text #Channel {
+    position: absolute;
+    top: 1%;
+    left: 70%;
+}
+
+.banner-text #Shorts {
+    position: absolute;
+    top: 1%;
+    left: 80%;
+}
+
+.banner-text #About {
+    position: absolute;
+    top: 1%;
+    left: 90%;
+}
+
+.banner-text #MyYTChannel {
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Centers the element */
+    text-decoration: dashed;
+}
+
+.banner-text #bugatti6971 { /* Changed from #@Bugatti6971 to #bugatti6971 */
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Centers the element */
+    text-decoration: dashed;
+}
